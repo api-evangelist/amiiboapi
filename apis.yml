@@ -40,7 +40,8 @@ apis:
   - name: AmiiboAPI
     description: "Nintendo Amiibo Information"
     humanURL: https://amiiboapi.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
